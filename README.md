@@ -28,7 +28,7 @@ Project Structure
 Here's an overview of the project structure:
 
 bash
-Copy code
+`
 .
 ├── bin
 │   └── com
@@ -63,7 +63,7 @@ Copy code
 └── target
     ├── cucumber-reports        # Cucumber test reports
     ├── surefire-reports         # JUnit test reports
-    
+`
 # Running Tests
 To run the tests, follow these steps:
 
